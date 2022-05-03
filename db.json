@@ -5,12 +5,6 @@
       "text": "Doctors Appointment",
       "day": "Feb 5th at 2:30pm",
       "reminder": true
-    },
-    {
-      "text": "food ",
-      "day": "albion",
-      "reminder": false,
-      "id": 2
     }
   ]
 }
